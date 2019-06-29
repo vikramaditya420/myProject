@@ -1,2 +1,2 @@
 /Secrets
-password.txt
+passwords.txt
